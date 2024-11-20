@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
 	return (
-		<div>
+		<div className='display-views'>
 			<p>
 				Lorem ipsum, dolor sit amet consectetur adipisicing elit.
 				Voluptas, illum maiores. Voluptas suscipit pariatur porro
